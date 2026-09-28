@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "kie": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["mcp/kie-mcp/launch.mjs"]
+    }
+  }
+}

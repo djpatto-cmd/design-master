@@ -1,0 +1,11 @@
+# Never commit or share the API key
+.env
+
+# Local tool state
+.venv-matte/
+node_modules/
+.DS_Store
+
+# build-frames.sh temp dirs
+_raw/
+_cut/
